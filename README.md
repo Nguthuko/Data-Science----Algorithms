@@ -1,2 +1,2 @@
-# Data-Science_Module-1--WQU----Algorithms
+# Data-Science_Module----Algorithms
 The repository contains explanation on algorithms using python
